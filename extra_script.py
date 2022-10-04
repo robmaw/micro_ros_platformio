@@ -18,6 +18,7 @@ boards_metas = {
     "teensy32" : "colcon_lowmem.meta",
     "teensy31" : "colcon_lowmem.meta",
     "esp32dev" : "colcon.meta",
+    "tinypico" : "colcon.meta",
     "olimex_e407" :  "colcon.meta",
     "due" : "colcon_verylowmem.meta",
     "zero" : "colcon_verylowmem.meta",
